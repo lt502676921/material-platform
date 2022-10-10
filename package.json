@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "author": "扭不开奥利奥 <2742054698@qq.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "antd": "^4.21.6",
+    "axios": "^0.27.2",
+    "github-markdown-css": "^5.1.0",
+    "moment": "^2.29.4",
+    "showdown": "^2.1.0",
+    "umi": "^4.0.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^4.1.2"
+  }
+}
